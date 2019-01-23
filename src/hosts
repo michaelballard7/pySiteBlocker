@@ -1,0 +1,10 @@
+
+ is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+0.0.0.0 www.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 www.instagram.com
+0.0.0.0 instagram.com
